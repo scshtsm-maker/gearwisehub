@@ -94,6 +94,16 @@
 </footer>
 
 <script>
+// Amazon Associates Configuration
+const affiliateConfig = {
+    amazonTag: 'gearwisehub-20',
+    domain: 'amazon.com',
+    // Helper function to generate affiliate links
+    amazonLink: function(asin) {
+        return `https://www.amazon.com/dp/${asin}?tag=${this.amazonTag}`;
+    }
+};
+
 // Article data — replaced by Hugo or managed manually
 const articles = [
     {
