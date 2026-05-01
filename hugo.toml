@@ -1,7 +1,7 @@
 baseURL = "https://gearwisehub.com/"
 languageCode = "en-us"
 title = "GearwiseHub"
-theme = "PaperMod"
+theme = ""
 buildDrafts = false
 
 [taxonomies]
