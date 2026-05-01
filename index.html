@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Product research, in-depth reviews and buying guides to help you make smarter purchasing decisions.">
+    <title>GearwiseHub - Smart Product Research & Buying Guides</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; background: #f8f9fa; color: #222; line-height: 1.7; }
+        a { text-decoration: none; color: inherit; }
+        header { background: #fff; border-bottom: 1px solid #eee; padding: 0 24px; position: sticky; top: 0; z-index: 100; }
+        .header-inner { max-width: 960px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; padding: 16px 0; }
+        .logo { font-size: 22px; font-weight: 800; color: #1a73e8; display: flex; align-items: center; gap: 8px; }
+        .logo svg { width: 32px; height: 32px; }
+        nav { display: flex; gap: 24px; }
+        nav a { font-size: 15px; color: #555; font-weight: 500; }
+        nav a:hover { color: #1a73e8; }
+        .hero { background: #1a73e8; color: #fff; padding: 64px 24px; text-align: center; }
+        .hero h1 { font-size: 40px; font-weight: 800; margin-bottom: 16px; line-height: 1.2; }
+        .hero p { font-size: 18px; opacity: 0.9; max-width: 600px; margin: 0 auto 28px; }
+        .hero .cta { display: inline-block; background: #fff; color: #1a73e8; padding: 12px 28px; border-radius: 6px; font-weight: 700; font-size: 15px; }
+        .hero .cta:hover { background: #e8f0fe; }
+        .container { max-width: 960px; margin: 0 auto; padding: 48px 24px; }
+        .section-title { font-size: 24px; font-weight: 700; color: #1a1a2e; margin-bottom: 8px; }
+        .section-sub { color: #666; margin-bottom: 32px; font-size: 15px; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 24px; }
+        .card { background: #fff; border-radius: 10px; overflow: hidden; box-shadow: 0 1px 4px rgba(0,0,0,0.07); transition: transform 0.2s, box-shadow 0.2s; }
+        .card:hover { transform: translateY(-3px); box-shadow: 0 6px 20px rgba(0,0,0,0.1); }
+        .card img { width: 100%; height: 180px; object-fit: cover; background: #e8f0fe; }
+        .card-body { padding: 20px; }
+        .card-cat { font-size: 12px; color: #1a73e8; font-weight: 600; text-transform: uppercase; margin-bottom: 8px; }
+        .card-title { font-size: 17px; font-weight: 700; color: #1a1a2e; margin-bottom: 8px; line-height: 1.4; }
+        .card-title a:hover { color: #1a73e8; }
+        .card-excerpt { font-size: 14px; color: #666; margin-bottom: 12px; }
+        .card-meta { font-size: 12px; color: #999; display: flex; gap: 16px; }
+        .disclosure { background: #fffde7; border: 1px solid #f9e79f; border-radius: 8px; padding: 16px 20px; margin-top: 48px; font-size: 13px; color: #555; line-height: 1.6; }
+        footer { background: #1a1a2e; color: #888; padding: 48px 24px; text-align: center; }
+        footer p { max-width: 960px; margin: 0 auto; font-size: 14px; }
+        footer a { color: #888; }
+        footer a:hover { color: #fff; }
+        @media (max-width: 600px) {
+            nav { display: none; }
+            .hero h1 { font-size: 28px; }
+            .container { padding: 32px 16px; }
+        }
+    </style>
+</head>
+<body>
+<header>
+    <div class="header-inner">
+        <a href="/" class="logo">
+            <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><rect width="32" height="32" rx="6" fill="#1a73e8"/><path d="M8 16h16M16 8v16" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/></svg>
+            GearwiseHub
+        </a>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/categories/reviews/">Reviews</a>
+            <a href="/categories/guides/">Buying Guides</a>
+            <a href="/about/">About</a>
+        </nav>
+    </div>
+</header>
+
+<section class="hero">
+    <h1>Smarter Picks, Better Buys</h1>
+    <p>In-depth product research, honest reviews, and buying guides to help you choose with confidence.</p>
+    <a href="/categories/reviews/" class="cta">Browse Reviews →</a>
+</section>
+
+<div class="container">
+    <h2 class="section-title">Featured Reviews</h2>
+    <p class="section-sub">Hand-tested, thoroughly researched — no fluff, just facts.</p>
+    <div class="grid" id="articles"></div>
+</div>
+
+<div class="container">
+    <h2 class="section-title">Buying Guides</h2>
+    <p class="section-sub">Everything you need to know before you buy.</p>
+    <div class="grid" id="guides"></div>
+</div>
+
+<div class="container">
+    <div class="disclosure">
+        <strong>Affiliate Disclosure:</strong> GearwiseHub is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. We also participate in affiliate programs for other brands. Our reviews are editorially independent — we only recommend products we genuinely believe in.
+    </div>
+</div>
+
+<footer>
+    <p>
+        © 2026 GearwiseHub · <a href="/privacy/">Privacy</a> · <a href="/terms/">Terms</a><br>
+        <span style="font-size:12px;margin-top:8px;display:inline-block">As an Amazon Associate we earn from qualifying purchases.</span>
+    </p>
+</footer>
+
+<script>
+// Article data — replaced by Hugo or managed manually
+const articles = [
+    {
+        title: "Best Wireless Earbuds Under $100 — 2026 Edition",
+        category: "Audio",
+        excerpt: "We tested 12 models and found the top picks for sound quality, battery life, and comfort without breaking the bank.",
+        url: "/reviews/best-wireless-earbuds-under-100/",
+        date: "2026-05-01",
+        readTime: "8 min"
+    },
+    {
+        title: "Top 10 Robot Vacuums for Pet Owners in 2026",
+        category: "Home",
+        excerpt: "Hair, dander, and messes — these models handle it all. Here's what actually works.",
+        url: "/reviews/robot-vacuums-pet-owners/",
+        date: "2026-04-28",
+        readTime: "11 min"
+    },
+    {
+        title: "Best Standing Desks 2026 — Full Comparison",
+        category: "Work From Home",
+        excerpt: "From budget to premium, we broke down the best electric standing desks on the market.",
+        url: "/reviews/best-standing-desks/",
+        date: "2026-04-20",
+        readTime: "14 min"
+    }
+];
+
+const guides = [
+    {
+        title: "How to Choose the Right Laptop for Your Needs",
+        category: "Tech Guide",
+        excerpt: "CPU, RAM, storage — our no-jargon guide breaks down what actually matters when buying a laptop.",
+        url: "/guides/how-to-choose-laptop/",
+        date: "2026-04-15",
+        readTime: "10 min"
+    },
+    {
+        title: "Smart Home Starter Guide 2026",
+        category: "Smart Home",
+        excerpt: "Where to start, what to buy first, and what to avoid. The complete beginner's roadmap.",
+        url: "/guides/smart-home-starter-guide/",
+        date: "2026-04-10",
+        readTime: "12 min"
+    }
+];
+
+function renderGrid(containerId, items) {
+    const el = document.getElementById(containerId);
+    el.innerHTML = items.map(item => `
+        <div class="card">
+            <img src="https://picsum.photos/seed/${encodeURIComponent(item.title)}/600/300" alt="${item.title}" loading="lazy">
+            <div class="card-body">
+                <div class="card-cat">${item.category}</div>
+                <h3 class="card-title"><a href="${item.url}">${item.title}</a></h3>
+                <p class="card-excerpt">${item.excerpt}</p>
+                <div class="card-meta"><span>${item.date}</span><span>${item.readTime} read</span></div>
+            </div>
+        </div>
+    `).join('');
+}
+
+renderGrid('articles', articles);
+renderGrid('guides', guides);
+</script>
+</body>
+</html>

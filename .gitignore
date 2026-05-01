@@ -1,0 +1,5 @@
+*.UTF-8
+.DS_Store
+public/
+resources/
+hugo_stats.json
