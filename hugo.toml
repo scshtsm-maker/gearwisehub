@@ -1,35 +1,3 @@
 baseURL = "https://gearwisehub.com/"
 languageCode = "en-us"
 title = "GearwiseHub"
-theme = ""
-buildDrafts = false
-
-[taxonomies]
-  category = "categories"
-  tag = "tags"
-
-[params]
-  env = "production"
-  author = "GearwiseHub"
-  description = "Product research, in-depth reviews and buying guides to help you make smarter purchasing decisions."
-  keywords = ["product reviews", "buying guides", "best products", "product comparisons"]
-  logo = "logo.svg"
-  ShowShareButtons = true
-  ShowReadingTime = true
-  displayGregorianDate = true
-
-[params.PaperMod]
-  homeInfoMode = "info"
-  socialIcons = []
-  ShowBreadCrumbs = true
-  ShowTaxonomies = true
-  ShowSeriesNav = true
-  ShowToc = true
-  tocOpen = false
-
-[[params.Adsense]]
-  id = "ca-pub-XXXXXXXX"
-  dataSlot = "XXXXXXXX"
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
