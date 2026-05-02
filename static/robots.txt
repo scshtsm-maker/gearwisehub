@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://cfqclaw.dpdns.org/sitemap.xml
+
+# Crawl-delay to be polite
+Crawl-delay: 1
