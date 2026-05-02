@@ -1,6 +1,8 @@
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; background: #f8f9fa; color: #222; line-height: 1.7; }
 a { text-decoration: none; color: inherit; }
+.skip-link { position: absolute; top: -40px; left: 0; background: #1a73e8; color: #fff; padding: 8px 16px; z-index: 1000; font-weight: 600; }
+.skip-link:focus { top: 0; }
 header { background: #fff; border-bottom: 1px solid #eee; padding: 0 24px; position: sticky; top: 0; z-index: 100; }
 .header-inner { max-width: 960px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; padding: 16px 0; }
 .logo { font-size: 22px; font-weight: 800; color: #1a73e8; display: flex; align-items: center; gap: 8px; }
@@ -108,12 +110,33 @@ footer a { color: #888; }
 footer a:hover { color: #fff; }
 .footer-links { display: flex; gap: 24px; justify-content: center; margin-bottom: 16px; flex-wrap: wrap; }
 .footer-links a { font-size: 14px; }
+/* Mobile hamburger menu */
+.menu-toggle { display: none; background: none; border: none; cursor: pointer; padding: 8px; }
+.menu-toggle span { display: block; width: 24px; height: 2px; background: #555; margin: 5px 0; transition: transform 0.3s, opacity 0.3s; }
+.menu-toggle.open span:nth-child(1) { transform: rotate(45deg) translate(5px, 5px); }
+.menu-toggle.open span:nth-child(2) { opacity: 0; }
+.menu-toggle.open span:nth-child(3) { transform: rotate(-45deg) translate(5px, -5px); }
 @media (max-width: 600px) {
-    nav { display: none; }
+    .menu-toggle { display: block; }
+    nav { display: none; flex-direction: column; position: absolute; top: 100%; left: 0; right: 0; background: #fff; border-bottom: 1px solid #eee; padding: 16px 24px; gap: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+    nav.open { display: flex; }
     .hero h1 { font-size: 28px; }
     .container { padding: 32px 16px; }
     .article h1 { font-size: 24px; }
     .pros-cons { grid-template-columns: 1fr; }
     .vs-grid { grid-template-columns: 1fr; }
     .spec-grid { grid-template-columns: 1fr; }
+    .footer-links { gap: 12px; }
+    .footer-links a { font-size: 13px; }
+}
+
+/* Print styles */
+@media print {
+    header, footer, .cta-box, .cta-btn, .cta-btn-sm, .disclosure, .related, .hero, nav, .menu-toggle { display: none !important; }
+    body { background: #fff; color: #000; font-size: 12pt; }
+    .article { padding: 0; }
+    a { color: #000; text-decoration: underline; }
+    a[href]::after { content: " (" attr(href) ")"; font-size: 10pt; color: #555; }
+    .pros-cons { grid-template-columns: 1fr; }
+    .spec-table, .comparison-table { font-size: 10pt; }
 }

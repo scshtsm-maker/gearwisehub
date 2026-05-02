@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="About GearwiseHub â€” Who we are, how we test products, and our editorial independence policy.">
+    <meta name="description" content="About GearwiseHub â€?Who we are, how we test products, and our editorial independence policy.">
     <meta name="theme-color" content="#1a73e8">
-    <title>About â€” GearwiseHub</title>
+    <title>About â€?GearwiseHub</title>
     <link rel="canonical" href="https://cfqclaw.dpdns.org/about/">
-    <link rel="icon" type="image/svg+xml" href="/logo.svg">
+    <link rel="icon" type="image/svg+xml" href="/logo.svg">`n    <link rel="apple-touch-icon" href="/apple-touch-icon.svg">
     <link rel="stylesheet" href="/style.css">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="GearwiseHub">
@@ -16,14 +16,13 @@
     <meta property="og:url" content="https://cfqclaw.dpdns.org/about/">
     <meta name="twitter:card" content="summary">
 </head>
-<body>
+<body>`n<a href="#main" class="skip-link">Skip to content</a>
 <header>
     <div class="header-inner">
         <a href="/" class="logo" aria-label="GearwiseHub Home">
             <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect width="32" height="32" rx="6" fill="#1a73e8"/><path d="M8 16h16M16 8v16" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/></svg>
             GearwiseHub
-        </a>
-        <nav aria-label="Main navigation">
+        </a>`n        <button class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">`n            <span></span><span></span><span></span>`n        </button>`n        <nav aria-label="Main navigation" id="main-nav">
             <a href="/">Home</a>
             <a href="/categories/reviews/">Reviews</a>
             <a href="/categories/guides/">Buying Guides</a>
@@ -32,14 +31,14 @@
     </div>
 </header>
 
-<main>
+<main id="main">
 <div class="page-content">
-    <div class="breadcrumb"><a href="/">Home</a> â€º About</div>
+    <div class="breadcrumb"><a href="/">Home</a> â€?About</div>
     <h1>About GearwiseHub</h1>
     <p>GearwiseHub is an independent product review and buying guide website. Our mission is simple: help you make smarter purchasing decisions through honest, thorough, and practical product analysis.</p>
 
     <h2>How We Test</h2>
-    <p>Every product we review is tested in real-world conditions â€” not just in a lab. We use products the way you would: at home, at work, on commutes, and during travel. Our testing typically spans at least 1-2 weeks per product to capture a complete picture of daily usability.</p>
+    <p>Every product we review is tested in real-world conditions â€?not just in a lab. We use products the way you would: at home, at work, on commutes, and during travel. Our testing typically spans at least 1-2 weeks per product to capture a complete picture of daily usability.</p>
     <p>We evaluate products across multiple categories including performance, build quality, comfort, battery life, value for money, and real-world usability. Our ratings reflect the complete ownership experience, not just a first impression.</p>
 
     <h2>Editorial Independence</h2>
@@ -70,5 +69,5 @@
     <p>Â© 2026 GearwiseHub. All rights reserved.<br>
     <span style="font-size:12px;margin-top:8px;display:inline-block">As an Amazon Associate we earn from qualifying purchases.</span></p>
 </footer>
-</body>
+<script>`nconst menuToggle = document.querySelector('.menu-toggle');`nconst mainNav = document.getElementById('main-nav');`nif (menuToggle && mainNav) {`n    menuToggle.addEventListener('click', function() {`n        const expanded = this.getAttribute('aria-expanded') === 'true';`n        this.setAttribute('aria-expanded', !expanded);`n        this.classList.toggle('open');`n        mainNav.classList.toggle('open');`n    });`n    mainNav.querySelectorAll('a').forEach(function(link) {`n        link.addEventListener('click', function() {`n            menuToggle.setAttribute('aria-expanded', 'false');`n            menuToggle.classList.remove('open');`n            mainNav.classList.remove('open');`n        });`n    });`n}`n</script>`n</body>
 </html>
