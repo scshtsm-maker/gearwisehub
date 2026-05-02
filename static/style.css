@@ -1,6 +1,7 @@
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; background: #f8f9fa; color: #222; line-height: 1.7; }
 a { text-decoration: none; color: inherit; }
+a:focus-visible, button:focus-visible { outline: 2px solid #1a73e8; outline-offset: 2px; border-radius: 2px; }
 .skip-link { position: absolute; top: -40px; left: 0; background: #1a73e8; color: #fff; padding: 8px 16px; z-index: 1000; font-weight: 600; }
 .skip-link:focus { top: 0; }
 header { background: #fff; border-bottom: 1px solid #eee; padding: 0 24px; position: sticky; top: 0; z-index: 100; }
