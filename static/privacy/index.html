@@ -7,17 +7,23 @@
     <meta name="theme-color" content="#1a73e8">
     <title>Privacy Policy â€?GearwiseHub</title>
     <link rel="canonical" href="https://cfqclaw.dpdns.org/privacy/">
-    <link rel="icon" type="image/svg+xml" href="/logo.svg">`n    <link rel="apple-touch-icon" href="/apple-touch-icon.svg">
+    <link rel="icon" type="image/svg+xml" href="/logo.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.svg">
     <link rel="stylesheet" href="/style.css">
     <meta name="robots" content="noindex">
 </head>
-<body>`n<a href="#main" class="skip-link">Skip to content</a>
+<body>
+<a href="#main" class="skip-link">Skip to content</a>
 <header>
     <div class="header-inner">
         <a href="/" class="logo" aria-label="GearwiseHub Home">
             <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect width="32" height="32" rx="6" fill="#1a73e8"/><path d="M8 16h16M16 8v16" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/></svg>
             GearwiseHub
-        </a>`n        <button class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">`n            <span></span><span></span><span></span>`n        </button>`n        <nav aria-label="Main navigation" id="main-nav">
+        </a>
+        <button class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">
+            <span></span><span></span><span></span>
+        </button>
+        <nav aria-label="Main navigation" id="main-nav">
             <a href="/">Home</a>
             <a href="/categories/reviews/">Reviews</a>
             <a href="/categories/guides/">Buying Guides</a>
@@ -91,5 +97,24 @@
     </div>
     <p>Â© 2026 GearwiseHub. All rights reserved.</p>
 </footer>
-<script>`nconst menuToggle = document.querySelector('.menu-toggle');`nconst mainNav = document.getElementById('main-nav');`nif (menuToggle && mainNav) {`n    menuToggle.addEventListener('click', function() {`n        const expanded = this.getAttribute('aria-expanded') === 'true';`n        this.setAttribute('aria-expanded', !expanded);`n        this.classList.toggle('open');`n        mainNav.classList.toggle('open');`n    });`n    mainNav.querySelectorAll('a').forEach(function(link) {`n        link.addEventListener('click', function() {`n            menuToggle.setAttribute('aria-expanded', 'false');`n            menuToggle.classList.remove('open');`n            mainNav.classList.remove('open');`n        });`n    });`n}`n</script>`n</body>
+<script>
+const menuToggle = document.querySelector('.menu-toggle');
+const mainNav = document.getElementById('main-nav');
+if (menuToggle && mainNav) {
+    menuToggle.addEventListener('click', function() {
+        const expanded = this.getAttribute('aria-expanded') === 'true';
+        this.setAttribute('aria-expanded', !expanded);
+        this.classList.toggle('open');
+        mainNav.classList.toggle('open');
+    });
+    mainNav.querySelectorAll('a').forEach(function(link) {
+        link.addEventListener('click', function() {
+            menuToggle.setAttribute('aria-expanded', 'false');
+            menuToggle.classList.remove('open');
+            mainNav.classList.remove('open');
+        });
+    });
+}
+</script>
+</body>
 </html>
