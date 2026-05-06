@@ -1,0 +1,148 @@
+============================================================
+GEARWISEHUB 网站全面审计报告
+审计时间: 2026-05-06 18:52
+站点: https://cfqclaw.dpdns.org
+============================================================
+
+[1] 首页卡片检查
+  主页卡片数量: 17
+    01. best-sports-headphones-2026
+    02. best-gaming-headsets-2026
+    03. blinblin-v21-translation-earbuds
+    04. sony-wh-1000xm5
+    05. best-wireless-earbuds-under-100
+    06. best-noise-canceling-headphones-under-200
+    07. apple-airpods-pro-2-review
+    08. best-bluetooth-speakers-under-50
+    09. jabra-elite-85t-review
+    10. best-bone-conduction-headphones-2026
+    11. soundcore-liberty-4-nc-review
+    12. bose-quietcomfort-ultra-review
+    13. best-running-headphones-2026
+    14. sony-wf-1000xm5-review
+    15. best-budget-headphones-2026
+    16. best-headphones-for-small-ears
+    17. soundcore-space-q45-review
+
+[2] 文章文件检查
+  本地文章数: 17
+    OK  apple-airpods-pro-2-review  (18.8 KB)
+    OK  best-bluetooth-speakers-under-50  (17.7 KB)
+    OK  best-bone-conduction-headphones-2026  (22.2 KB)
+    OK  best-budget-headphones-2026  (25.5 KB)
+    OK  best-gaming-headsets-2026  (25.4 KB)
+    OK  best-headphones-for-small-ears  (25.7 KB)
+    OK  best-noise-canceling-headphones-under-200  (21.1 KB)
+    OK  best-running-headphones-2026  (41.5 KB)
+    OK  best-sports-headphones-2026  (25.2 KB)
+    OK  best-wireless-earbuds-under-100  (21.0 KB)
+    OK  blinblin-v21-translation-earbuds  (18.0 KB)
+    OK  bose-quietcomfort-ultra-review  (46.7 KB)
+    OK  jabra-elite-85t-review  (18.7 KB)
+    OK  sony-wf-1000xm5-review  (33.9 KB)
+    OK  sony-wh-1000xm5  (18.6 KB)
+    OK  soundcore-liberty-4-nc-review  (38.2 KB)
+    OK  soundcore-space-q45-review  (16.1 KB)
+
+[3] HTTP 状态检测
+  [FAIL] 0  /
+  [OK] 200  /reviews/apple-airpods-pro-2-review/
+  [FAIL] 0  /reviews/best-bluetooth-speakers-under-50/
+  [FAIL] 0  /reviews/best-bone-conduction-headphones-2026/
+  [FAIL] 0  /reviews/best-budget-headphones-2026/
+  [OK] 200  /reviews/best-gaming-headsets-2026/
+  [OK] 200  /reviews/best-headphones-for-small-ears/
+  [OK] 200  /reviews/best-noise-canceling-headphones-under-200/
+  [OK] 200  /reviews/best-running-headphones-2026/
+  [OK] 200  /reviews/best-sports-headphones-2026/
+  [OK] 200  /reviews/best-wireless-earbuds-under-100/
+  [OK] 200  /reviews/blinblin-v21-translation-earbuds/
+  [FAIL] 0  /reviews/bose-quietcomfort-ultra-review/
+  [OK] 200  /reviews/jabra-elite-85t-review/
+  [FAIL] 0  /reviews/sony-wf-1000xm5-review/
+  [OK] 200  /reviews/sony-wh-1000xm5/
+  [FAIL] 0  /reviews/soundcore-liberty-4-nc-review/
+  [FAIL] 0  /reviews/soundcore-space-q45-review/
+
+[4] SEO Meta 标签抽查（最新 3 篇）
+  sony-wh-1000xm5
+    Title:       OK: Sony WH-1000XM5 Review (2026) &#8212; Still the Best?
+    Description: OK (146 chars)
+    OG Image:    OK: https://images.unsplash.com/photo-1606220838315-056192d5e927?w=1200&q=
+    Viewport:    OK
+    Canonical:   OK
+  soundcore-liberty-4-nc-review
+    Title:       OK: Soundcore Liberty 4 NC Review &#8212; GearwiseHub
+    Description: OK (154 chars)
+    OG Image:    OK: https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=1200&q=80
+    Viewport:    OK
+    Canonical:   OK
+  soundcore-space-q45-review
+    Title:       OK: Soundcore Space Q45 评测 &#8212; $100 价位降噪之王
+    Description: OK (91 chars)
+    OG Image:    OK: https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=1200&q=80
+    Viewport:    OK
+    Canonical:   OK
+
+[5] 图片 broken link 检查（抽样 5 篇）
+  [OK] 200  https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=1200&q=80
+  [OK] 200  https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=1200&q=80
+  [OK] 200  https://images.unsplash.com/photo-1556906781-9a412961c28c?w=800&q=80
+  [OK] 200  https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=1200&q=80
+  [OK] 200  https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=600&q=80
+  共检查 5 个图片 URL，异常: 0 个
+
+[6] Sitemap 一致性检查
+  ERROR - sitemap.xml 未找到
+
+[7] JSON-LD Schema 检查（3 篇）
+  apple-airpods-pro-2-review: 3 个 schema 块
+    [1] @type: BreadcrumbList
+    [2] @type: Review
+    [3] @type: FAQPage
+  best-bluetooth-speakers-under-50: 3 个 schema 块
+    [1] @type: BreadcrumbList
+    [2] @type: Article
+    [3] @type: FAQPage
+  best-bone-conduction-headphones-2026: 3 个 schema 块
+    [1] @type: BreadcrumbList
+    [2] @type: Article
+    [3] @type: FAQPage
+
+[8] robots.txt 检查
+  OK - robots.txt 存在
+    # As a condition of accessing this website, you agree to abide by the following
+    # content signals:
+    # (a)  If a Content-Signal = yes, you may collect content for the corresponding
+    #      use.
+    # (b)  If a Content-Signal = no, you may not collect content for the
+    #      corresponding use.
+    # (c)  If the website operator does not include a Content-Signal for a
+    #      corresponding use, the website operator neither grants nor restricts
+    #      permission via Content-Signal with respect to the corresponding use.
+
+[9] 内部死链检测
+  内部死链: 12 条
+    [apple-airpods-pro-2-review] /reviews/best-noise-canceling-headphones-under-200/ -> HTTP 0
+    [apple-airpods-pro-2-review] /reviews/sony-wh-1000xm5/ -> HTTP 0
+    [apple-airpods-pro-2-review] /reviews/best-wireless-earbuds-under-100/ -> HTTP 0
+    [best-bluetooth-speakers-under-50] /reviews/blinblin-v21-translation-earbuds/ -> HTTP 0
+    [best-budget-headphones-2026] /reviews/ -> HTTP 404
+    [best-gaming-headsets-2026] /reviews/best-bluetooth-speakers-under-50/ -> HTTP 0
+    [best-running-headphones-2026] /reviews/best-running-shoes-2026/ -> HTTP 404
+    [best-running-headphones-2026] /reviews/best-running-watches-2026/ -> HTTP 0
+    [sony-wf-1000xm5-review] /reviews/bose-qc-ultra-earbuds-review/ -> HTTP 0
+    [sony-wf-1000xm5-review] /reviews/airpods-pro-2-review/ -> HTTP 0
+    [sony-wf-1000xm5-review] /reviews/sony-wh-1000xm5-over-ear-review/ -> HTTP 404
+    [soundcore-liberty-4-nc-review] /reviews/jabra-elite-85t-review/ -> HTTP 0
+
+============================================================
+审计总结
+  文章总数:      17
+  首页卡片:      17
+  缺失文件:      0
+  HTTP 异常:     8 条
+  内部死链:      12 条
+  图片 404:      0 个
+  sitemap 缺失:  0 条
+============================================================
