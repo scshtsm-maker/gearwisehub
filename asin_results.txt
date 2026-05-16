@@ -1,0 +1,137 @@
+Starting ASIN verification at 23:34:32
+Total ASINs: 44
+
+[01/44] FAIL  B09WHV7R6J   Shokz OpenRun Pro                      UNKNOWN
+[02/44] FAIL  B08R5WRY6J   Shokz OpenSwim                         NOT FOUND
+[03/44] DIFF  B09P4QQT6M   Philips A6606                          DIFF: found B07JL1K193,B0CYPSVMBW,B0CYPSVMBW
+[04/44] FAIL  B0C1S8YQR7   H2O Audio TRI Pro                      NOT FOUND
+[05/44] DIFF  B0D94WXY8Q   Soundcore Life Q20i                    DIFF: found B0FHW4CF51,B0FHW4CF51,B0CSFR1V7X
+[06/44] FAIL  B09XS411J7   Sony WH-CH520                          UNKNOWN
+[07/44] DIFF  B0BJ682ZKT   Soundcore Space Q45                    DIFF: found B0FWJY183S,B0FWJY183S,B0CRMB9Z84
+[08/44] FAIL  B09V2W7Z8C   SteelSeries Arctis Nova Pro            NOT FOUND
+[09/44] FAIL  B0C1FKG8HM   HyperX Cloud III Wireless              UNKNOWN
+[10/44] FAIL  B0C1GJP5YK   HyperX Cloud III Wired                 NOT FOUND
+[11/44] FAIL  B0D5TP8LR2   Razer BlackShark V2 Pro 2026           NOT FOUND
+[12/44] FAIL  B08XV7V9Z6   Xbox Wireless Headset                  UNKNOWN
+[13/44] DIFF  B0C7JGJQHY   Logitech G PRO X 2 Lightspeed          DIFF: found B0D6W7JDR7,B0D6W7JDR7,B0D8CDCY2B
+[14/44] DIFF  B09G9FP2LJ   EPOS H6PRO                             DIFF: found B08SHZW9MF,B08SHZW9MF,B0DLSQMNGR
+[15/44] DIFF  B0CJQH3Z8V   Corsair Virtuoso Pro                   DIFF: found B0FG2PMNS2,B0FG2PMNS2,B0FVFM4CMD
+[16/44] DIFF  B0BDHWDR9X   Apple AirPods Pro 2                    DIFF: found B08128N8P3,B08128N8P3,B0D21G58DG
+[17/44] DIFF  B09YXNYS86   Sony LinkBuds S                        DIFF: found B0DWWJ7PYT,B0FKTMBQVK,B0FKTMBQVK
+[18/44] FAIL  B08J9D6Z99   Soundcore Life Dot 2                   NOT FOUND
+[19/44] FAIL  B09TM9K9W3   Jabra Elite 7 Active                   NOT FOUND
+[20/44] DIFF  B0CJ9K1J5V   Soundcore Space One                    DIFF: found B0FHW4CF51,B0FHW4CF51,B0C9922S19
+[21/44] FAIL  B0D6H3XK2M   Edifier W820NB Plus                    NOT FOUND
+[22/44] DIFF  B0BWGFYVJX   1MORE SonoFlow                         DIFF: found B0DLSQMNGR,B0DLSQMNGR,B0FRWTHQ5N
+[23/44] OK    B0FNWJ4FV3   Soundcore Liberty 4 NC (ANC)           OK
+[24/44] FAIL  B09KM6T2JQ   Shokz OpenRun (running)                UNKNOWN
+[25/44] FAIL  B0C6KB8LCJ   Sony WF-1000XM5 (running)              NOT FOUND
+[26/44] DIFF  B08B43KB47   Adidas RPT-01                          DIFF: found B0CZM6HJGV,B0CZM6HJGV,B0DFVYB1VZ
+[27/44] FAIL  B093BKKBRK   Jaybird Vista 2                        NOT FOUND
+[28/44] FAIL  B0D8ZJYQ3P   Soundcore Spirit C30 NC                NOT FOUND
+[29/44] FAIL  B07XGWQ5X1   Bose Sleepbuds II                      NOT FOUND
+[30/44] DIFF  B07ZQRZ3XK   SleepPhones Runtime                    DIFF: found B09MM1BMTZ,B09MM1BMTZ,B0BLVBKDSB
+[31/44] FAIL  B0D1J8KX2M   Shokz OpenRun Pro 2 (sports)           NOT FOUND
+[32/44] FAIL  B0D8QJN5VX   Jabra Elite 8 Active Gen 2             NOT FOUND
+[33/44] FAIL  B09JL54S3K   Beats Fit Pro (sports)                 NOT FOUND
+[34/44] FAIL  B08F7PTF53   Soundcore Spirit X2                    NOT FOUND
+[35/44] FAIL  B0BR4D5YQH   JBL Endurance Race TWS                 NOT FOUND
+[36/44] FAIL  B0B7Q5XK8L   Sony LinkBuds S (sports)               NOT FOUND
+[37/44] FAIL  B0D3HFRM2Q   Bose Ultra Open Earbuds                NOT FOUND
+[38/44] DIFF  B0CJL3ZJBM   Soundcore Liberty 4 NC (<100)          DIFF: found B0CYYLSKYF,B0CYYLSKYF,B0FG2PMNS2
+[39/44] FAIL  B0B86CDZS3   Samsung Galaxy Buds2 Pro               NOT FOUND
+[40/44] FAIL  B0B7Q4HXK2   Sony WH-1000XM5                        NOT FOUND
+[41/44] FAIL  B0CCZRRQ3K   Bose QuietComfort Ultra                NOT FOUND
+[42/44] DIFF  B0BXC7J5HM   Bose QuietComfort Ultra Earbuds        DIFF: found B0D8CDCY2B,B0D8CDCY2B,B0FHW4CF51
+[43/44] FAIL  B0BSHSWRN1   JBL Tune 760NC                         NOT FOUND
+[44/44] DIFF  B09V4GMXKJ   Jabra Elite 4                          DIFF: found B0DB2CCKTT,B0DB2CCKTT,B0D97D9BDM
+
+Done at 23:43:08
+SUMMARY: 1 OK, 43 FAIL
+
+  FAIL: B09WHV7R6J - Shokz OpenRun Pro
+    -> UNKNOWN
+  FAIL: B08R5WRY6J - Shokz OpenSwim
+    -> NOT FOUND
+  FAIL: B09P4QQT6M - Philips A6606
+    -> DIFF: found B07JL1K193,B0CYPSVMBW,B0CYPSVMBW
+  FAIL: B0C1S8YQR7 - H2O Audio TRI Pro
+    -> NOT FOUND
+  FAIL: B0D94WXY8Q - Soundcore Life Q20i
+    -> DIFF: found B0FHW4CF51,B0FHW4CF51,B0CSFR1V7X
+  FAIL: B09XS411J7 - Sony WH-CH520
+    -> UNKNOWN
+  FAIL: B0BJ682ZKT - Soundcore Space Q45
+    -> DIFF: found B0FWJY183S,B0FWJY183S,B0CRMB9Z84
+  FAIL: B09V2W7Z8C - SteelSeries Arctis Nova Pro
+    -> NOT FOUND
+  FAIL: B0C1FKG8HM - HyperX Cloud III Wireless
+    -> UNKNOWN
+  FAIL: B0C1GJP5YK - HyperX Cloud III Wired
+    -> NOT FOUND
+  FAIL: B0D5TP8LR2 - Razer BlackShark V2 Pro 2026
+    -> NOT FOUND
+  FAIL: B08XV7V9Z6 - Xbox Wireless Headset
+    -> UNKNOWN
+  FAIL: B0C7JGJQHY - Logitech G PRO X 2 Lightspeed
+    -> DIFF: found B0D6W7JDR7,B0D6W7JDR7,B0D8CDCY2B
+  FAIL: B09G9FP2LJ - EPOS H6PRO
+    -> DIFF: found B08SHZW9MF,B08SHZW9MF,B0DLSQMNGR
+  FAIL: B0CJQH3Z8V - Corsair Virtuoso Pro
+    -> DIFF: found B0FG2PMNS2,B0FG2PMNS2,B0FVFM4CMD
+  FAIL: B0BDHWDR9X - Apple AirPods Pro 2
+    -> DIFF: found B08128N8P3,B08128N8P3,B0D21G58DG
+  FAIL: B09YXNYS86 - Sony LinkBuds S
+    -> DIFF: found B0DWWJ7PYT,B0FKTMBQVK,B0FKTMBQVK
+  FAIL: B08J9D6Z99 - Soundcore Life Dot 2
+    -> NOT FOUND
+  FAIL: B09TM9K9W3 - Jabra Elite 7 Active
+    -> NOT FOUND
+  FAIL: B0CJ9K1J5V - Soundcore Space One
+    -> DIFF: found B0FHW4CF51,B0FHW4CF51,B0C9922S19
+  FAIL: B0D6H3XK2M - Edifier W820NB Plus
+    -> NOT FOUND
+  FAIL: B0BWGFYVJX - 1MORE SonoFlow
+    -> DIFF: found B0DLSQMNGR,B0DLSQMNGR,B0FRWTHQ5N
+  FAIL: B09KM6T2JQ - Shokz OpenRun (running)
+    -> UNKNOWN
+  FAIL: B0C6KB8LCJ - Sony WF-1000XM5 (running)
+    -> NOT FOUND
+  FAIL: B08B43KB47 - Adidas RPT-01
+    -> DIFF: found B0CZM6HJGV,B0CZM6HJGV,B0DFVYB1VZ
+  FAIL: B093BKKBRK - Jaybird Vista 2
+    -> NOT FOUND
+  FAIL: B0D8ZJYQ3P - Soundcore Spirit C30 NC
+    -> NOT FOUND
+  FAIL: B07XGWQ5X1 - Bose Sleepbuds II
+    -> NOT FOUND
+  FAIL: B07ZQRZ3XK - SleepPhones Runtime
+    -> DIFF: found B09MM1BMTZ,B09MM1BMTZ,B0BLVBKDSB
+  FAIL: B0D1J8KX2M - Shokz OpenRun Pro 2 (sports)
+    -> NOT FOUND
+  FAIL: B0D8QJN5VX - Jabra Elite 8 Active Gen 2
+    -> NOT FOUND
+  FAIL: B09JL54S3K - Beats Fit Pro (sports)
+    -> NOT FOUND
+  FAIL: B08F7PTF53 - Soundcore Spirit X2
+    -> NOT FOUND
+  FAIL: B0BR4D5YQH - JBL Endurance Race TWS
+    -> NOT FOUND
+  FAIL: B0B7Q5XK8L - Sony LinkBuds S (sports)
+    -> NOT FOUND
+  FAIL: B0D3HFRM2Q - Bose Ultra Open Earbuds
+    -> NOT FOUND
+  FAIL: B0CJL3ZJBM - Soundcore Liberty 4 NC (<100)
+    -> DIFF: found B0CYYLSKYF,B0CYYLSKYF,B0FG2PMNS2
+  FAIL: B0B86CDZS3 - Samsung Galaxy Buds2 Pro
+    -> NOT FOUND
+  FAIL: B0B7Q4HXK2 - Sony WH-1000XM5
+    -> NOT FOUND
+  FAIL: B0CCZRRQ3K - Bose QuietComfort Ultra
+    -> NOT FOUND
+  FAIL: B0BXC7J5HM - Bose QuietComfort Ultra Earbuds
+    -> DIFF: found B0D8CDCY2B,B0D8CDCY2B,B0FHW4CF51
+  FAIL: B0BSHSWRN1 - JBL Tune 760NC
+    -> NOT FOUND
+  FAIL: B09V4GMXKJ - Jabra Elite 4
+    -> DIFF: found B0DB2CCKTT,B0DB2CCKTT,B0D97D9BDM

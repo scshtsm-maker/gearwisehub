@@ -1,0 +1,60 @@
+01. Shokz OpenRun Pro bone conduction headphones
+    ASIN: B09BVXT8TJ | (title not extracted)
+02. Soundcore Life Q20i wireless headphones
+    ASIN: B0FNWCYLZN | (title not extracted)
+03. Sony WH-CH520 wireless headphones
+    ASIN: B0BS1PRC4L | (title not extracted)
+04. SteelSeries Arctis Nova Pro Wireless gaming headse
+    ASIN: B0D1S7D9YX | (title not extracted)
+05. HyperX Cloud III wireless gaming headset
+    ASIN: B0DQQT2ZS3 | (title not extracted)
+06. Logitech G Pro X 2 Lightspeed gaming headset
+    ASIN: B07W6H7PY2 | (title not extracted)
+07. Bose Sleepbuds II sleep earbuds
+    ASIN: ERROR | could not extract ASIN
+08. Jaybird Vista 2 wireless earbuds
+    ASIN: B07MSLF5YC | (title not extracted)
+09. Bose QuietComfort Ultra headphones
+    ASIN: B0CN9FTKJ4 | (title not extracted)
+10. Sony WF-1000XM5 wireless earbuds
+    ASIN: B0C33XXS56 | (title not extracted)
+11. Bose Ultra Open Earbuds open design
+    ASIN: B0DK3GG2YS | (title not extracted)
+12. Samsung Galaxy Buds2 Pro wireless earbuds
+    ASIN: ERROR | could not extract ASIN
+13. Sony LinkBuds S wireless earbuds
+    ASIN: B09YL296PM | (title not extracted)
+14. Jabra Elite 4 wireless earbuds
+    ASIN: ERROR | could not extract ASIN
+15. Soundcore Space One wireless headphones
+    ASIN: B0GXW4KNPB | (title not extracted)
+16. Adidas RPT-01 sport headphones
+    ASIN: ERROR | could not extract ASIN
+17. Edifier W820NB Plus wireless headphones
+    ASIN: ERROR | could not extract ASIN
+18. 1MORE SonoFlow wireless headphones
+    ASIN: B0F1CL7LTD | (title not extracted)
+19. Shokz OpenSwim waterproof bone conduction
+    ASIN: ERROR | could not extract ASIN
+20. H2O Audio TRI Pro waterproof headphones
+    ASIN: B0DFQK6Q8R | (title not extracted)
+21. Soundcore Spirit C30 NC open ear earbuds
+    ASIN: B0GLX2GZ7P | (title not extracted)
+22. Philips A6606 bone conduction headphones
+    ASIN: ERROR | could not extract ASIN
+23. Soundcore Liberty 4 NC wireless earbuds
+    ASIN: B0FNWCYLZN | (title not extracted)
+24. Beats Fit Pro wireless earbuds
+    ASIN: B08Q8P69JZ | (title not extracted)
+25. Jabra Elite 8 Active wireless earbuds
+    ASIN: B0F9HTKWRD | (title not extracted)
+26. JBL Tune 760NC wireless headphones
+    ASIN: B09CPKMZ2L | (title not extracted)
+27. Bose SoundSport Free wireless earbuds
+    ASIN: B0D8BZDPXB | (title not extracted)
+28. Soundcore Spirit X2 wireless earbuds sports
+    ASIN: B0FNWCYLZN | (title not extracted)
+29. Shokz OpenFit open ear earbuds
+    ASIN: B0FCDB32CB | (title not extracted)
+30. Sony WH-1000XM6 wireless headphones
+    ASIN: ERROR | The read operation timed out
