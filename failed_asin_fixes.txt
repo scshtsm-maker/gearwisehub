@@ -1,0 +1,67 @@
+{
+  "best-headphones-for-small-ears": [
+    [
+      "B0BDHWDR9X",
+      "SEARCH",
+      "1. Apple AirPods Pro 2 &#8212; First Choice for Small Ear Users"
+    ],
+    [
+      "B0B7Q5XK8L",
+      "SEARCH",
+      "2. Sony LinkBuds S &#8212; Lightest Noise Canceling Headphones"
+    ]
+  ],
+  "best-running-headphones-2026": [
+    [
+      "B0B7Q4HXK2",
+      "UNKNOWN",
+      ""
+    ]
+  ],
+  "best-sports-headphones-2026": [
+    [
+      "B0D1J8KX2M",
+      "SEARCH",
+      "Full Reviews"
+    ],
+    [
+      "B0D1J8KX2M",
+      "SEARCH",
+      "Full Reviews"
+    ],
+    [
+      "B08F7PTF53",
+      "SEARCH",
+      "5. H2O Audio TRI PRO &#8212; Best for Swimming"
+    ],
+    [
+      "B0BR4D5YQH",
+      "SEARCH",
+      "7. Sony LinkBuds S &#8212; Lightest Sports Earbuds"
+    ],
+    [
+      "B0B7Q5XK8L",
+      "SEARCH",
+      "8. Bose Ultra Open Earbuds &#8212; Best Open-Ear Premium"
+    ],
+    [
+      "B0D3HFRM2Q",
+      "SEARCH",
+      "Comparison Table"
+    ]
+  ],
+  "best-wireless-earbuds-under-200": [
+    [
+      "B0CJL3ZJBM",
+      "UNKNOWN",
+      ""
+    ]
+  ],
+  "soundcore-space-q45-review": [
+    [
+      "B0FWJY183S",
+      "UNKNOWN",
+      ""
+    ]
+  ]
+}

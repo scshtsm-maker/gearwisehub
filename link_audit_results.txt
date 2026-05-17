@@ -1,0 +1,826 @@
+{
+  "summary": {
+    "total_links": 60,
+    "direct_links": 46,
+    "search_links": 14,
+    "other_links": 0
+  },
+  "direct_results": [
+    {
+      "type": "direct",
+      "article": "apple-airpods-pro-2-review",
+      "asin": "B0CHWRXH8B",
+      "url": "https://www.amazon.com/dp/B0CHWRXH8B?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0CHWRXH8B?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-bone-conduction-headphones-2026",
+      "asin": "B09BVXT8TJ",
+      "url": "https://www.amazon.com/dp/B09BVXT8TJ?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B09BVXT8TJ?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-bone-conduction-headphones-2026",
+      "asin": "B09BVXT8TJ",
+      "url": "https://www.amazon.com/dp/B09BVXT8TJ?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B09BVXT8TJ?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-bone-conduction-headphones-2026",
+      "asin": "B07JL1K193",
+      "url": "https://www.amazon.com/dp/B07JL1K193?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B07JL1K193?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-budget-headphones-2026",
+      "asin": "B0FNWCYLZN",
+      "url": "https://www.amazon.com/dp/B0FNWCYLZN?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0FNWCYLZN?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-budget-headphones-2026",
+      "asin": "B0BS1PRC4L",
+      "url": "https://www.amazon.com/dp/B0BS1PRC4L?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0BS1PRC4L?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-budget-headphones-2026",
+      "asin": "B0FWJY183S",
+      "url": "https://www.amazon.com/dp/B0FWJY183S?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0FWJY183S?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-flagship-noise-canceling-earbuds-2026",
+      "asin": "B0F7M3HPBD",
+      "url": "https://www.amazon.com/dp/B0F7M3HPBD?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0F7M3HPBD?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-gaming-headsets-2026",
+      "asin": "B0D1S7D9YX",
+      "url": "https://www.amazon.com/dp/B0D1S7D9YX?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0D1S7D9YX?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-gaming-headsets-2026",
+      "asin": "B0D1S7D9YX",
+      "url": "https://www.amazon.com/dp/B0D1S7D9YX?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0D1S7D9YX?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-gaming-headsets-2026",
+      "asin": "B0DQQT2ZS3",
+      "url": "https://www.amazon.com/dp/B0DQQT2ZS3?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0DQQT2ZS3?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-gaming-headsets-2026",
+      "asin": "B0DQQT2ZS3",
+      "url": "https://www.amazon.com/dp/B0DQQT2ZS3?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0DQQT2ZS3?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-gaming-headsets-2026",
+      "asin": "B0FHW4CF51",
+      "url": "https://www.amazon.com/dp/B0FHW4CF51?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0FHW4CF51?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-gaming-headsets-2026",
+      "asin": "B07W6H7PY2",
+      "url": "https://www.amazon.com/dp/B07W6H7PY2?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B07W6H7PY2?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-gaming-headsets-2026",
+      "asin": "B08SHZW9MF",
+      "url": "https://www.amazon.com/dp/B08SHZW9MF?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B08SHZW9MF?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-gaming-headsets-2026",
+      "asin": "B083JRW96J",
+      "url": "https://www.amazon.com/dp/B083JRW96J?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B083JRW96J?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-headphones-for-small-ears",
+      "asin": "B0BDHWDR9X",
+      "url": "https://www.amazon.com/dp/B0BDHWDR9X?tag=cfqclaw-20",
+      "status": 404,
+      "final_url": "https://www.amazon.com/dp/B0BDHWDR9X?tag=cfqclaw-20",
+      "error": "404",
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-headphones-for-small-ears",
+      "asin": "B0B7Q5XK8L",
+      "url": "https://www.amazon.com/dp/B0B7Q5XK8L?tag=cfqclaw-20",
+      "status": 404,
+      "final_url": "https://www.amazon.com/dp/B0B7Q5XK8L?tag=cfqclaw-20",
+      "error": "404",
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-headphones-for-small-ears",
+      "asin": "B0F2QWR3FB",
+      "url": "https://www.amazon.com/dp/B0F2QWR3FB?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0F2QWR3FB?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-headphones-for-small-ears",
+      "asin": "B0F9HTKWRD",
+      "url": "https://www.amazon.com/dp/B0F9HTKWRD?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0F9HTKWRD?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-noise-canceling-headphones-under-200",
+      "asin": "B0GXW4KNPB",
+      "url": "https://www.amazon.com/dp/B0GXW4KNPB?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0GXW4KNPB?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-noise-canceling-headphones-under-200",
+      "asin": "B0F1CL7LTD",
+      "url": "https://www.amazon.com/dp/B0F1CL7LTD?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0F1CL7LTD?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-noise-canceling-headphones-under-200",
+      "asin": "B0FNWJ4FV3",
+      "url": "https://www.amazon.com/dp/B0FNWJ4FV3?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0FNWJ4FV3?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-over-ear-noise-canceling-headphones-2026",
+      "asin": "B0F3QJLD3B",
+      "url": "https://www.amazon.com/dp/B0F3QJLD3B?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0F3QJLD3B?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-running-headphones-2026",
+      "asin": "B09BVXT8TJ",
+      "url": "https://www.amazon.com/dp/B09BVXT8TJ?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B09BVXT8TJ?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-running-headphones-2026",
+      "asin": "B09BVXT8TJ",
+      "url": "https://www.amazon.com/dp/B09BVXT8TJ?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B09BVXT8TJ?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-running-headphones-2026",
+      "asin": "B0B7Q4HXK2",
+      "url": "https://www.amazon.com/dp/B0B7Q4HXK2?tag=cfqclaw-20",
+      "status": 404,
+      "final_url": "https://www.amazon.com/dp/B0B7Q4HXK2?tag=cfqclaw-20",
+      "error": "404",
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-running-headphones-2026",
+      "asin": "B07MSLF5YC",
+      "url": "https://www.amazon.com/dp/B07MSLF5YC?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B07MSLF5YC?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-running-headphones-2026",
+      "asin": "B0GLX2GZ7P",
+      "url": "https://www.amazon.com/dp/B0GLX2GZ7P?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0GLX2GZ7P?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-running-headphones-2026",
+      "asin": "B0C9ZJZ5WP",
+      "url": "https://www.amazon.com/dp/B0C9ZJZ5WP?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0C9ZJZ5WP?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-sports-headphones-2026",
+      "asin": "B0D1J8KX2M",
+      "url": "https://www.amazon.com/dp/B0D1J8KX2M?tag=cfqclaw-20",
+      "status": 404,
+      "final_url": "https://www.amazon.com/dp/B0D1J8KX2M?tag=cfqclaw-20",
+      "error": "404",
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-sports-headphones-2026",
+      "asin": "B0D1J8KX2M",
+      "url": "https://www.amazon.com/dp/B0D1J8KX2M?tag=cfqclaw-20",
+      "status": 404,
+      "final_url": "https://www.amazon.com/dp/B0D1J8KX2M?tag=cfqclaw-20",
+      "error": "404",
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-sports-headphones-2026",
+      "asin": "B0F9HTKWRD",
+      "url": "https://www.amazon.com/dp/B0F9HTKWRD?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0F9HTKWRD?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-sports-headphones-2026",
+      "asin": "B08Q8P69JZ",
+      "url": "https://www.amazon.com/dp/B08Q8P69JZ?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B08Q8P69JZ?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-sports-headphones-2026",
+      "asin": "B08F7PTF53",
+      "url": "https://www.amazon.com/dp/B08F7PTF53?tag=cfqclaw-20",
+      "status": 404,
+      "final_url": "https://www.amazon.com/dp/B08F7PTF53?tag=cfqclaw-20",
+      "error": "404",
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-sports-headphones-2026",
+      "asin": "B0D6MR7RBD",
+      "url": "https://www.amazon.com/dp/B0D6MR7RBD?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0D6MR7RBD?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-sports-headphones-2026",
+      "asin": "B0BR4D5YQH",
+      "url": "https://www.amazon.com/dp/B0BR4D5YQH?tag=cfqclaw-20",
+      "status": 404,
+      "final_url": "https://www.amazon.com/dp/B0BR4D5YQH?tag=cfqclaw-20",
+      "error": "404",
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-sports-headphones-2026",
+      "asin": "B0B7Q5XK8L",
+      "url": "https://www.amazon.com/dp/B0B7Q5XK8L?tag=cfqclaw-20",
+      "status": 404,
+      "final_url": "https://www.amazon.com/dp/B0B7Q5XK8L?tag=cfqclaw-20",
+      "error": "404",
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-sports-headphones-2026",
+      "asin": "B0D3HFRM2Q",
+      "url": "https://www.amazon.com/dp/B0D3HFRM2Q?tag=cfqclaw-20",
+      "status": 404,
+      "final_url": "https://www.amazon.com/dp/B0D3HFRM2Q?tag=cfqclaw-20",
+      "error": "404",
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-wireless-earbuds-under-100",
+      "asin": "B0FNWJ4FV3",
+      "url": "https://www.amazon.com/dp/B0FNWJ4FV3?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0FNWJ4FV3?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "best-wireless-earbuds-under-200",
+      "asin": "B0CJL3ZJBM",
+      "url": "https://www.amazon.com/dp/B0CJL3ZJBM?tag=cfqclaw-20",
+      "status": 404,
+      "final_url": "https://www.amazon.com/dp/B0CJL3ZJBM?tag=cfqclaw-20",
+      "error": "404",
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "bose-quietcomfort-ultra-review",
+      "asin": "B0FDKQZ18F",
+      "url": "https://www.amazon.com/dp/B0FDKQZ18F?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0FDKQZ18F?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "bose-quietcomfort-ultra-review",
+      "asin": "B0FDKQZ18F",
+      "url": "https://www.amazon.com/dp/B0FDKQZ18F?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0FDKQZ18F?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "sony-wh-1000xm5",
+      "asin": "B09XS7JWHH",
+      "url": "https://www.amazon.com/dp/B09XS7JWHH?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B09XS7JWHH?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "soundcore-liberty-4-nc-review",
+      "asin": "B0FNWJ4FV3",
+      "url": "https://www.amazon.com/dp/B0FNWJ4FV3?tag=cfqclaw-20",
+      "status": 200,
+      "final_url": "https://www.amazon.com/dp/B0FNWJ4FV3?tag=cfqclaw-20",
+      "error": null,
+      "redirected": false
+    },
+    {
+      "type": "direct",
+      "article": "soundcore-space-q45-review",
+      "asin": "B0FWJY183S",
+      "url": "https://www.https://www.amazon.com/dp/B0FWJY183S?tag=cfqclaw-20",
+      "status": 0,
+      "final_url": "https://www.https://www.amazon.com/dp/B0FWJY183S?tag=cfqclaw-20",
+      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failur",
+      "redirected": false
+    }
+  ],
+  "search_sample": [
+    {
+      "article": "best-bone-conduction-headphones-2026",
+      "status": 0,
+      "url": "https://www.https://www.amazon.com/s?k=Shokz+Open Swim&tag=cfqclaw-20"
+    },
+    {
+      "article": "best-budget-headphones-2026",
+      "status": 200,
+      "url": "https://www.amazon.com/s?k=JBL+Tune+760NC&tag=cfqclaw-20"
+    },
+    {
+      "article": "best-budget-headphones-2026",
+      "status": 200,
+      "url": "https://www.amazon.com/s?k=Jabra+Elite+4&tag=cfqclaw-20"
+    },
+    {
+      "article": "best-flagship-noise-canceling-earbuds-2026",
+      "status": 0,
+      "url": "https://www.amazon.com/s?k=Air Pods+Pro+3&tag=cfqclaw-20"
+    },
+    {
+      "article": "best-flagship-noise-canceling-earbuds-2026",
+      "status": 200,
+      "url": "https://www.amazon.com/s?k=Sony+WF-1000XM6&tag=cfqclaw-20"
+    },
+    {
+      "article": "best-gaming-headsets-2026",
+      "status": 0,
+      "url": "https://www.https://www.amazon.com/s?k=Razer+BlackShark+V2+Pro&tag=cfqclaw-20"
+    },
+    {
+      "article": "best-headphones-for-small-ears",
+      "status": 200,
+      "url": "https://www.amazon.com/s?k=small+ear+earbuds&tag=cfqclaw-20"
+    },
+    {
+      "article": "best-noise-canceling-headphones-under-200",
+      "status": 0,
+      "url": "https://www.https://www.amazon.com/s?k=Edifier+W820NB+Plus&tag=cfqclaw-20"
+    },
+    {
+      "article": "best-over-ear-noise-canceling-headphones-2026",
+      "status": 0,
+      "url": "https://www.amazon.com/s?k=Air Pods+Max+2&tag=cfqclaw-20"
+    },
+    {
+      "article": "best-over-ear-noise-canceling-headphones-2026",
+      "status": 0,
+      "url": "https://www.amazon.com/s?k=Bose+Quiet Comfort+Ultra+Headphones&tag=cfqclaw-20"
+    }
+  ],
+  "all_dp_links": [
+    [
+      "apple-airpods-pro-2-review",
+      "https://www.amazon.com/dp/B0CHWRXH8B?tag=cfqclaw-20",
+      "/strong> &#8212; Best i Phone earbuds, but Android users sho"
+    ],
+    [
+      "best-bone-conduction-headphones-2026",
+      "https://www.amazon.com/dp/B09BVXT8TJ?tag=cfqclaw-20",
+      "and 10-hour battery make th is the gold standard for open-ea"
+    ],
+    [
+      "best-bone-conduction-headphones-2026",
+      "https://www.amazon.com/dp/B09BVXT8TJ?tag=cfqclaw-20",
+      "</div>                     </div>                           "
+    ],
+    [
+      "best-bone-conduction-headphones-2026",
+      "https://www.amazon.com/dp/B07JL1K193?tag=cfqclaw-20",
+      "</div>                     </div>                           "
+    ],
+    [
+      "best-budget-headphones-2026",
+      "https://www.amazon.com/dp/B0FNWCYLZN?tag=cfqclaw-20",
+      "ife Q20i &#8212; Most cost-effective noise canceling over-ea"
+    ],
+    [
+      "best-budget-headphones-2026",
+      "https://www.amazon.com/dp/B0BS1PRC4L?tag=cfqclaw-20",
+      "<h2>3. Sony WH-CH520 &#8212; 50 -hour battery life king</h2>"
+    ],
+    [
+      "best-budget-headphones-2026",
+      "https://www.amazon.com/dp/B0FWJY183S?tag=cfqclaw-20",
+      ">4. Soundcore Space Q45 &#8212; Near-flagship noise cancelin"
+    ],
+    [
+      "best-flagship-noise-canceling-earbuds-2026",
+      "https://www.amazon.com/dp/B0F7M3HPBD?tag=cfqclaw-20",
+      "r top priority, the QC Ultra 2 is the clear winner.         "
+    ],
+    [
+      "best-gaming-headsets-2026",
+      "https://www.amazon.com/dp/B0D1S7D9YX?tag=cfqclaw-20",
+      "tation delivers audiophile-grade sound.</p>           <p cla"
+    ],
+    [
+      "best-gaming-headsets-2026",
+      "https://www.amazon.com/dp/B0D1S7D9YX?tag=cfqclaw-20",
+      "<li>Base station takes desk space</li>             </ul>    "
+    ],
+    [
+      "best-gaming-headsets-2026",
+      "https://www.amazon.com/dp/B0DQQT2ZS3?tag=cfqclaw-20",
+      "i>Leather pads get warm in summer</li>             </ul>    "
+    ],
+    [
+      "best-gaming-headsets-2026",
+      "https://www.amazon.com/dp/B0DQQT2ZS3?tag=cfqclaw-20",
+      "<li>Cable could be longer (1.3m)</li>             </ul>     "
+    ],
+    [
+      "best-gaming-headsets-2026",
+      "https://www.amazon.com/dp/B0FHW4CF51?tag=cfqclaw-20",
+      "c quality is decent but not great</li>             </ul>    "
+    ],
+    [
+      "best-gaming-headsets-2026",
+      "https://www.amazon.com/dp/B07W6H7PY2?tag=cfqclaw-20",
+      "li>Minimal RGB or aesthetic flair</li>             </ul>    "
+    ],
+    [
+      "best-gaming-headsets-2026",
+      "https://www.amazon.com/dp/B08SHZW9MF?tag=cfqclaw-20",
+      "<li>No wireless option</li>             </ul>           </di"
+    ],
+    [
+      "best-gaming-headsets-2026",
+      "https://www.amazon.com/dp/B083JRW96J?tag=cfqclaw-20",
+      "li>No wireless under $180 version</li>             </ul>    "
+    ],
+    [
+      "best-headphones-for-small-ears",
+      "https://www.amazon.com/dp/B0BDHWDR9X?tag=cfqclaw-20",
+      "<h2>1. Apple AirPods Pro 2 &#8212; First Choice for Small Ea"
+    ],
+    [
+      "best-headphones-for-small-ears",
+      "https://www.amazon.com/dp/B0B7Q5XK8L?tag=cfqclaw-20",
+      "<h2>2. Sony LinkBuds S &#8212; Lightest Noise Canceling Head"
+    ],
+    [
+      "best-headphones-for-small-ears",
+      "https://www.amazon.com/dp/B0F2QWR3FB?tag=cfqclaw-20",
+      "<h2>3. Soundcore Life Dot 2 &#8212; Best Value King for Smal"
+    ],
+    [
+      "best-headphones-for-small-ears",
+      "https://www.amazon.com/dp/B0F9HTKWRD?tag=cfqclaw-20",
+      "<h2>4. Jabra Elite 7 Active &#8212; First Choice for Sports "
+    ],
+    [
+      "best-noise-canceling-headphones-under-200",
+      "https://www.amazon.com/dp/B0GXW4KNPB?tag=cfqclaw-20",
+      "facturer samples.</p>      <h2 id=\"top-pick\">Our Top Pick: A"
+    ],
+    [
+      "best-noise-canceling-headphones-under-200",
+      "https://www.amazon.com/dp/B0F1CL7LTD?tag=cfqclaw-20",
+      "for extended wear.</p>      <h2 id=\"best-battery\">Best Batte"
+    ],
+    [
+      "best-noise-canceling-headphones-under-200",
+      "https://www.amazon.com/dp/B0FNWJ4FV3?tag=cfqclaw-20",
+      ".</p>      <h2 id=\"best-earbuds\">Best ANC Earbuds Under $200"
+    ],
+    [
+      "best-over-ear-noise-canceling-headphones-2026",
+      "https://www.amazon.com/dp/B0F3QJLD3B?tag=cfqclaw-20",
+      "rrently the best value flagship over-ear headphone.         "
+    ],
+    [
+      "best-running-headphones-2026",
+      "https://www.amazon.com/dp/B09BVXT8TJ?tag=cfqclaw-20",
+      "ce runners</li>             </ul>                          <"
+    ],
+    [
+      "best-running-headphones-2026",
+      "https://www.amazon.com/dp/B09BVXT8TJ?tag=cfqclaw-20",
+      "</div>                                  <div class=\"cta-box\""
+    ],
+    [
+      "best-running-headphones-2026",
+      "https://www.amazon.com/dp/B0B7Q4HXK2?tag=cfqclaw-20",
+      "</div>                                  <div class=\"cta-box\""
+    ],
+    [
+      "best-running-headphones-2026",
+      "https://www.amazon.com/dp/B07MSLF5YC?tag=cfqclaw-20",
+      "</div>                                  <div class=\"cta-box\""
+    ],
+    [
+      "best-running-headphones-2026",
+      "https://www.amazon.com/dp/B0GLX2GZ7P?tag=cfqclaw-20",
+      "</div>                                  <div class=\"cta-box\""
+    ],
+    [
+      "best-running-headphones-2026",
+      "https://www.amazon.com/dp/B0C9ZJZ5WP?tag=cfqclaw-20",
+      "</div>                                  <div class=\"cta-box\""
+    ],
+    [
+      "best-sports-headphones-2026",
+      "https://www.amazon.com/dp/B0D1J8KX2M?tag=cfqclaw-20",
+      "dles sweat and rain effortlessly.</p>           <p class=\"st"
+    ],
+    [
+      "best-sports-headphones-2026",
+      "https://www.amazon.com/dp/B0D1J8KX2M?tag=cfqclaw-20",
+      "<li>No active noise cancellation</li>             </ul>     "
+    ],
+    [
+      "best-sports-headphones-2026",
+      "https://www.amazon.com/dp/B0F9HTKWRD?tag=cfqclaw-20",
+      "<li>Above $200 price point</li>             </ul>           "
+    ],
+    [
+      "best-sports-headphones-2026",
+      "https://www.amazon.com/dp/B08Q8P69JZ?tag=cfqclaw-20",
+      "ass-heavy tuning not for everyone</li>             </ul>    "
+    ],
+    [
+      "best-sports-headphones-2026",
+      "https://www.amazon.com/dp/B08F7PTF53?tag=cfqclaw-20",
+      "i>Bulky compared to true wireless</li>             </ul>    "
+    ],
+    [
+      "best-sports-headphones-2026",
+      "https://www.amazon.com/dp/B0D6MR7RBD?tag=cfqclaw-20",
+      "ulky design not ideal for running</li>             </ul>    "
+    ],
+    [
+      "best-sports-headphones-2026",
+      "https://www.amazon.com/dp/B0BR4D5YQH?tag=cfqclaw-20",
+      "<li>No wireless charging</li>             </ul>           </"
+    ],
+    [
+      "best-sports-headphones-2026",
+      "https://www.amazon.com/dp/B0B7Q5XK8L?tag=cfqclaw-20",
+      "<li>6-hour battery is average</li>             </ul>        "
+    ],
+    [
+      "best-sports-headphones-2026",
+      "https://www.amazon.com/dp/B0D3HFRM2Q?tag=cfqclaw-20",
+      "i>Clip mechanism not for everyone</li>             </ul>    "
+    ],
+    [
+      "best-wireless-earbuds-under-100",
+      "https://www.amazon.com/dp/B0FNWJ4FV3?tag=cfqclaw-20",
+      "d> <dt>Codec</dt><dd>LDAC, AAC, SBC</dd> <dt>Bluetooth</dt><"
+    ],
+    [
+      "best-wireless-earbuds-under-200",
+      "https://www.amazon.com/dp/B0CJL3ZJBM?tag=cfqclaw-20",
+      "erty 4 NC</strong> &#8212; best ANC under $100 with LDAC sup"
+    ],
+    [
+      "bose-quietcomfort-ultra-review",
+      "https://www.amazon.com/dp/B0FDKQZ18F?tag=cfqclaw-20",
+      "uietComfort Ultra Headphones</div>             <div class=\"p"
+    ],
+    [
+      "bose-quietcomfort-ultra-review",
+      "https://www.amazon.com/dp/B0FDKQZ18F?tag=cfqclaw-20",
+      "uietComfort Ultra Headphones</div>             <div class=\"p"
+    ],
+    [
+      "sony-wh-1000xm5",
+      "https://www.amazon.com/dp/B09XS7JWHH?tag=cfqclaw-20",
+      "-1000XM5 — The noise-canceling benchmark. Prices frequently "
+    ],
+    [
+      "soundcore-liberty-4-nc-review",
+      "https://www.amazon.com/dp/B0FNWJ4FV3?tag=cfqclaw-20",
+      "case</li> <li>No always-on listening mode</li> </ul> </div> "
+    ],
+    [
+      "soundcore-space-q45-review",
+      "https://www.https://www.amazon.com/dp/B0FWJY183S?tag=cfqclaw-20",
+      "ltipoint</td><td>Yes (2 devices)</td></tr>             </tab"
+    ]
+  ],
+  "all_search_links": [
+    [
+      "best-bone-conduction-headphones-2026",
+      "https://www.https://www.amazon.com/s?k=Shokz+Open Swim&tag=cfqclaw-20",
+      "</div>                     </div>                           "
+    ],
+    [
+      "best-budget-headphones-2026",
+      "https://www.amazon.com/s?k=JBL+Tune+760NC&tag=cfqclaw-20",
+      "<h2>2. JBL Tune 760NC &#8212; JBL Signature bass experience<"
+    ],
+    [
+      "best-budget-headphones-2026",
+      "https://www.amazon.com/s?k=Jabra+Elite+4&tag=cfqclaw-20",
+      "<h2>5. Jabra Elite 4 &#8212; Best Budget True Wireless Sport"
+    ],
+    [
+      "best-flagship-noise-canceling-earbuds-2026",
+      "https://www.amazon.com/s?k=Air Pods+Pro+3&tag=cfqclaw-20",
+      "ience to a new benchmark for true wireless earbuds.         "
+    ],
+    [
+      "best-flagship-noise-canceling-earbuds-2026",
+      "https://www.amazon.com/s?k=Sony+WF-1000XM6&tag=cfqclaw-20",
+      "best-sounding true wireless ANC earbuds available.          "
+    ],
+    [
+      "best-gaming-headsets-2026",
+      "https://www.https://www.amazon.com/s?k=Razer+BlackShark+V2+Pro&tag=cfqclaw-20",
+      "azer Green color not for everyone</li>             </ul>    "
+    ],
+    [
+      "best-headphones-for-small-ears",
+      "https://www.amazon.com/s?k=small+ear+earbuds&tag=cfqclaw-20",
+      "nnheiser Momentum True Wireless 3 &#8212; Audiophile-grade S"
+    ],
+    [
+      "best-noise-canceling-headphones-under-200",
+      "https://www.https://www.amazon.com/s?k=Edifier+W820NB+Plus&tag=cfqclaw-20",
+      "s you charge once a week.</p>      <h2 id=\"runner-up\">Runner"
+    ],
+    [
+      "best-over-ear-noise-canceling-headphones-2026",
+      "https://www.amazon.com/s?k=Air Pods+Max+2&tag=cfqclaw-20",
+      "gs a unique wearing experience and visual identity.         "
+    ],
+    [
+      "best-over-ear-noise-canceling-headphones-2026",
+      "https://www.amazon.com/s?k=Bose+Quiet Comfort+Ultra+Headphones&tag=cfqclaw-20",
+      "ts for wearing comfort，QC Ultra Is the only choice.         "
+    ],
+    [
+      "best-running-headphones-2026",
+      "https://www.https://www.amazon.com/s?k=Adidas+RPT-01+headphones&tag=cfqclaw-20",
+      "</div>                                  <div class=\"cta-box\""
+    ],
+    [
+      "best-wireless-earbuds-under-100",
+      "https://www.amazon.com/s?k=OPPO+Enco+Air+3+earbuds&tag=cfqclaw-20",
+      "ase</dd> <dt>Codec</dt><dd>AAC, SBC</dd> <dt>Bluetooth</dt><"
+    ],
+    [
+      "best-wireless-earbuds-under-100",
+      "https://www.amazon.com/s?k=OPPO+Enco+Air+3+earbuds&tag=cfqclaw-20",
+      "se</dd> <dt>Codec</dt><dd>AAC, SBC</dd> <dt>IP Rating</dt><d"
+    ],
+    [
+      "best-wireless-earbuds-under-100",
+      "https://www.amazon.com/s?k=Soundcore+C30i+translator+earbuds&tag=cfqclaw-20",
+      "iv class=\"related-excerpt\">The noise-canceling benchmark, re"
+    ]
+  ]
+}
