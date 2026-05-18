@@ -38,11 +38,11 @@
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "Breadcrumb List",
-      "item List Element": [
-        { "@type": "List Item", "position": 1, "name": "Home", "item": "https://cfqclaw.dpdns.org/" },
-        { "@type": "List Item", "position": 2, "name": "Reviews", "item": "https://cfqclaw.dpdns.org/categories/reviews/" },
-        { "@type": "List Item", "position": 3, "name": "Air Pods Pro 2 Review" }
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://cfqclaw.dpdns.org/" },
+        { "@type": "ListItem", "position": 2, "name": "Reviews", "item": "https://cfqclaw.dpdns.org/categories/reviews/" },
+        { "@type": "ListItem", "position": 3, "name": "Air Pods Pro 2 Review" }
       ]
     }
     </script>
@@ -50,41 +50,41 @@
     {
       "@context": "https://schema.org",
       "@type": "Review",
-      "item Reviewed": {
+      "itemReviewed": {
         "@type": "Product",
         "name": "Apple Air Pods Pro 2 (USB-C)",
         "brand": { "@type": "Brand", "name": "Apple" },
         "image": "https://images.pexels.com/photos/18542277/pexels-photo-18542277.jpeg?auto=compress&cs=tinysrgb&w=600"
       },
-      "review Rating": { "@type": "Rating", "rating Value": "4.3", "best Rating": "5" },
+      "reviewRating": { "@type": "Rating", "ratingValue": "4.3", "bestRating": "5" },
       "headline": "Air Pods Pro 2 Review (2026): Still Worth It?",
       "description": "Retesting the Air Pods Pro 2 against 2026 competition. Is Apple's flagship still the best i Phone earbud?",
       "author": { "@type": "Organization", "name": "Gearwise Hub Editorial Team" },
-      "publisher": { "@type": "Organization", "name": "Gearwise Hub", "logo": { "@type": "Image Object", "url": "https://cfqclaw.dpdns.org/logo.svg" } },
-      "date Published": "2026-05-02",
-      "date Modified": "2026-05-02",
-      "main Entity OfPage": "https://cfqclaw.dpdns.org/reviews/apple-airpods-pro-2-review/"
+      "publisher": { "@type": "Organization", "name": "Gearwise Hub", "logo": { "@type": "ImageObject", "url": "https://cfqclaw.dpdns.org/logo.svg" } },
+      "datePublished": "2026-05-02",
+      "dateModified": "2026-05-02",
+      "mainEntityOfPage": "https://cfqclaw.dpdns.org/reviews/apple-airpods-pro-2-review/"
     }
     </script>
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "FAQPage",
-      "main Entity": [
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Are Air Pods Pro 2 still worth buying in 2026?",
-          "accepted Answer": { "@type": "Answer", "text": "Yes, if you're in the Apple ecosystem. The smooth i Phone/Mac/Apple Watch integration remains hard-to-beat. However, if you use Android, there are better options for less money." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes, if you're in the Apple ecosystem. The smooth i Phone/Mac/Apple Watch integration remains hard-to-beat. However, if you use Android, there are better options for less money." }
         },
         {
           "@type": "Question",
           "name": "What is the difference between Air Pods Pro 2 Lightning and USB-C?",
-          "accepted Answer": { "@type": "Answer", "text": "The USB-C model (2024+) adds dust resistance (IP54), lossless audio with Apple Vision Pro, and a lanyard loop on the case. ANC, sound quality, and battery life are identical." }
+          "acceptedAnswer": { "@type": "Answer", "text": "The USB-C model (2024+) adds dust resistance (IP54), lossless audio with Apple Vision Pro, and a lanyard loop on the case. ANC, sound quality, and battery life are identical." }
         },
         {
           "@type": "Question",
           "name": "Do Air Pods Pro 2 work with Android phones?",
-          "accepted Answer": { "@type": "Answer", "text": "They connect via Bluetooth and play audio fine, but you lose spatial audio, auto-switching, Find My, battery optimization, and the custom EQ. An Android user should consider the Soundcore Liberty 4 NC instead." }
+          "acceptedAnswer": { "@type": "Answer", "text": "They connect via Bluetooth and play audio fine, but you lose spatial audio, auto-switching, Find My, battery optimization, and the custom EQ. An Android user should consider the Soundcore Liberty 4 NC instead." }
         }
       ]
     }
@@ -314,20 +314,20 @@
     <span style="font-size:12px;margin-top:8px;display:inline-block">As an Amazon Associate we earn from qualifying purchases.</span></p>
 </footer>
 <script>
-const menu Toggle = document.query Selector('.menu-toggle');
-const main Nav = document.get Element ById('main-nav');
-if (menu Toggle && main Nav) {
-    menu Toggle.add Event Listener('click', function() {
-        const expanded = this.get Attribute('aria-expanded') === 'true';
-        this.set Attribute('aria-expanded', !expanded);
-        this.class List.toggle('open');
-        main Nav.class List.toggle('open');
+const menuToggle = document.querySelector('.menu-toggle');
+const mainNav = document.getElementById('main-nav');
+if (menuToggle && mainNav) {
+    menuToggle.addEventListener('click', function() {
+        const expanded = this.getAttribute('aria-expanded') === 'true';
+        this.setAttribute('aria-expanded', !expanded);
+        this.classList.toggle('open');
+        mainNav.classList.toggle('open');
     });
-    main Nav.query Selector All('a').for Each(function(link) {
-        link.add Event Listener('click', function() {
-            menu Toggle.set Attribute('aria-expanded', 'false');
-            menu Toggle.class List.remove('open');
-            main Nav.class List.remove('open');
+    mainNav.querySelectorAll('a').forEach(function(link) {
+        link.addEventListener('click', function() {
+            menuToggle.setAttribute('aria-expanded', 'false');
+            menuToggle.classList.remove('open');
+            mainNav.classList.remove('open');
         });
     });
 }

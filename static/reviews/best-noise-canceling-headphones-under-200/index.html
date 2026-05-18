@@ -39,11 +39,11 @@
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "Breadcrumb List",
-      "item List Element": [
-        { "@type": "List Item", "position": 1, "name": "Home", "item": "https://cfqclaw.dpdns.org/" },
-        { "@type": "List Item", "position": 2, "name": "Buying Guides", "item": "https://cfqclaw.dpdns.org/categories/guides/" },
-        { "@type": "List Item", "position": 3, "name": "Best Noise-Canceling Headphones Under $200" }
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://cfqclaw.dpdns.org/" },
+        { "@type": "ListItem", "position": 2, "name": "Buying Guides", "item": "https://cfqclaw.dpdns.org/categories/guides/" },
+        { "@type": "ListItem", "position": 3, "name": "Best Noise-Canceling Headphones Under $200" }
       ]
     }
     </script>
@@ -55,31 +55,31 @@
       "description": "Best noise-canceling headphones under $200 in 2026. We tested 8 models for ANC performance, sound quality, and comfort.",
       "image": "https://images.pexels.com/photos/3921827/pexels-photo-3921827.jpeg?auto=compress&cs=tinysrgb&w=600",
       "author": { "@type": "Organization", "name": "Gearwise Hub Editorial Team" },
-      "publisher": { "@type": "Organization", "name": "Gearwise Hub", "logo": { "@type": "Image Object", "url": "https://cfqclaw.dpdns.org/logo.svg" } },
-      "date Published": "2026-05-02",
-      "date Modified": "2026-05-02",
-      "main Entity OfPage": "https://cfqclaw.dpdns.org/reviews/best-noise-canceling-headphones-under-200/"
+      "publisher": { "@type": "Organization", "name": "Gearwise Hub", "logo": { "@type": "ImageObject", "url": "https://cfqclaw.dpdns.org/logo.svg" } },
+      "datePublished": "2026-05-02",
+      "dateModified": "2026-05-02",
+      "mainEntityOfPage": "https://cfqclaw.dpdns.org/reviews/best-noise-canceling-headphones-under-200/"
     }
     </script>
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "FAQPage",
-      "main Entity": [
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Can you get good noise cancellation under $200?",
-          "accepted Answer": { "@type": "Answer", "text": "Yes. Models like the Anker Soundcore Space One and Edifier W820NB Plus deliver ANC performance that rivals headphones costing twice as much. You won't get Sony XM5-level silence, but for commuting, office use, and home listening, these are more than capable." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes. Models like the Anker Soundcore Space One and Edifier W820NB Plus deliver ANC performance that rivals headphones costing twice as much. You won't get Sony XM5-level silence, but for commuting, office use, and home listening, these are more than capable." }
         },
         {
           "@type": "Question",
           "name": "Are budget ANC headphones good for airplane travel?",
-          "accepted Answer": { "@type": "Answer", "text": "Over-ear models like the Anker Soundcore Space One and 1MORE Sono Flow perform well on flights, reducing engine drone by 70-80%. For the best airplane ANC, over-ear designs generally outperform earbuds at any price point." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Over-ear models like the Anker Soundcore Space One and 1MORE Sono Flow perform well on flights, reducing engine drone by 70-80%. For the best airplane ANC, over-ear designs generally outperform earbuds at any price point." }
         },
         {
           "@type": "Question",
           "name": "What is the best noise-canceling headphone under $200 overall?",
-          "accepted Answer": { "@type": "Answer", "text": "The Anker Soundcore Space One offers the best overall package under $200: strong ANC, 55-hour battery, comfortable fit, and excellent sound for the price. It is our top pick for most buyers." }
+          "acceptedAnswer": { "@type": "Answer", "text": "The Anker Soundcore Space One offers the best overall package under $200: strong ANC, 55-hour battery, comfortable fit, and excellent sound for the price. It is our top pick for most buyers." }
         }
       ]
     }
@@ -89,12 +89,12 @@
     {
       "@context": "https://schema.org",
       "@type": "Review",
-      "item Reviewed": {
+      "itemReviewed": {
         "@type": "Product",
         "name": "Best Noise-Canceling Headphones Under $200",
         "image": "https://images.pexels.com/photos/30981655/pexels-photo-30981655.jpeg?auto=compress&cs=tinysrgb&w=600"
       },
-      "review Rating": { "@type": "Rating", "rating Value": "4.0", "best Rating": "5" },
+      "reviewRating": { "@type": "Rating", "ratingValue": "4.0", "bestRating": "5" },
       "headline": "Best Noise-Canceling Headphones Under $200",
       "description": "Honest review of Best Noise-Canceling Headphones Under $200"
     }
@@ -345,20 +345,20 @@
     <span style="font-size:12px;margin-top:8px;display:inline-block">As an Amazon Associate we earn from qualifying purchases.</span></p>
 </footer>
 <script>
-const menu Toggle = document.query Selector('.menu-toggle');
-const main Nav = document.get Element ById('main-nav');
-if (menu Toggle && main Nav) {
-    menu Toggle.add Event Listener('click', function() {
-        const expanded = this.get Attribute('aria-expanded') === 'true';
-        this.set Attribute('aria-expanded', !expanded);
-        this.class List.toggle('open');
-        main Nav.class List.toggle('open');
+const menuToggle = document.querySelector('.menu-toggle');
+const mainNav = document.getElementById('main-nav');
+if (menuToggle && mainNav) {
+    menuToggle.addEventListener('click', function() {
+        const expanded = this.getAttribute('aria-expanded') === 'true';
+        this.setAttribute('aria-expanded', !expanded);
+        this.classList.toggle('open');
+        mainNav.classList.toggle('open');
     });
-    main Nav.query Selector All('a').for Each(function(link) {
-        link.add Event Listener('click', function() {
-            menu Toggle.set Attribute('aria-expanded', 'false');
-            menu Toggle.class List.remove('open');
-            main Nav.class List.remove('open');
+    mainNav.querySelectorAll('a').forEach(function(link) {
+        link.addEventListener('click', function() {
+            menuToggle.setAttribute('aria-expanded', 'false');
+            menuToggle.classList.remove('open');
+            mainNav.classList.remove('open');
         });
     });
 }

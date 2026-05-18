@@ -37,11 +37,11 @@
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "Breadcrumb List",
-      "item List Element": [
-        { "@type": "List Item", "position": 1, "name": "Home", "item": "https://cfqclaw.dpdns.org/" },
-        { "@type": "List Item", "position": 2, "name": "Reviews", "item": "https://cfqclaw.dpdns.org/categories/reviews/" },
-        { "@type": "List Item", "position": 3, "name": "Sony WH-1000XM5 Review" }
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://cfqclaw.dpdns.org/" },
+        { "@type": "ListItem", "position": 2, "name": "Reviews", "item": "https://cfqclaw.dpdns.org/categories/reviews/" },
+        { "@type": "ListItem", "position": 3, "name": "Sony WH-1000XM5 Review" }
       ]
     }
     </script>
@@ -49,41 +49,41 @@
     {
       "@context": "https://schema.org",
       "@type": "Review",
-      "item Reviewed": {
+      "itemReviewed": {
         "@type": "Product",
         "name": "Sony WH-1000XM5",
         "brand": { "@type": "Brand", "name": "Sony" },
         "image": "https://images.pexels.com/photos/3756965/pexels-photo-3756965.jpeg?auto=compress&cs=tinysrgb&w=600"
       },
-      "review Rating": { "@type": "Rating", "rating Value": "4.6", "best Rating": "5" },
+      "reviewRating": { "@type": "Rating", "ratingValue": "4.6", "bestRating": "5" },
       "headline": "Sony WH-1000XM5 Review (2026): Still the Noise-Canceling King?",
       "description": "Sony WH-1000XM5 headphones tested in 2026. Industry-leading ANC, LDAC audio, 30-hour battery. Full review with comparisons to Bose QC Ultra and Sennheiser Momentum 4.",
       "author": { "@type": "Organization", "name": "Gearwise Hub Editorial Team" },
-      "publisher": { "@type": "Organization", "name": "Gearwise Hub", "logo": { "@type": "Image Object", "url": "https://cfqclaw.dpdns.org/logo.svg" } },
-      "date Published": "2026-05-02",
-      "date Modified": "2026-05-02",
-      "main Entity OfPage": "https://cfqclaw.dpdns.org/reviews/sony-wh-1000xm5/"
+      "publisher": { "@type": "Organization", "name": "Gearwise Hub", "logo": { "@type": "ImageObject", "url": "https://cfqclaw.dpdns.org/logo.svg" } },
+      "datePublished": "2026-05-02",
+      "dateModified": "2026-05-02",
+      "mainEntityOfPage": "https://cfqclaw.dpdns.org/reviews/sony-wh-1000xm5/"
     }
     </script>
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "FAQPage",
-      "main Entity": [
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Is the Sony WH-1000XM5 still worth it in 2026?",
-          "accepted Answer": { "@type": "Answer", "text": "Yes. Despite being two years old, the XM5 still matches or beats most 2026 competitors in ANC performance and sound quality. The XM5 often goes on sale for under $280, making it excellent value." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes. Despite being two years old, the XM5 still matches or beats most 2026 competitors in ANC performance and sound quality. The XM5 often goes on sale for under $280, making it excellent value." }
         },
         {
           "@type": "Question",
           "name": "Sony WH-1000XM5 vs Bose Quiet Comfort Ultra — which is better?",
-          "accepted Answer": { "@type": "Answer", "text": "The Sony XM5 has better ANC and LDAC audio support. The Bose QC Ultra wins on comfort for all-day wear. Choose Sony for pure performance, Bose for marathon listening sessions." }
+          "acceptedAnswer": { "@type": "Answer", "text": "The Sony XM5 has better ANC and LDAC audio support. The Bose QC Ultra wins on comfort for all-day wear. Choose Sony for pure performance, Bose for marathon listening sessions." }
         },
         {
           "@type": "Question",
           "name": "Does the WH-1000XM5 support multipoint connection?",
-          "accepted Answer": { "@type": "Answer", "text": "Yes, the XM5 supports Bluetooth multipoint, connecting to two devices simultaneously. It automatically switches between them based on what you're playing." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes, the XM5 supports Bluetooth multipoint, connecting to two devices simultaneously. It automatically switches between them based on what you're playing." }
         }
       ]
     }
@@ -190,18 +190,24 @@
 <div class="vs-grid">
 <div class="vs-item">
 <strong>Sony XM5</strong><br/>
-                ANC: ★★★★★?br&gt;
-                Sound: ★★★★★?br&gt;
-                Comfort: ★★★★★?br&gt;
+                ANC: ★★★★★<br/>
+                
+                Sound: ★★★★★<br/>
+                
+                Comfort: ★★★★★<br/>
+                
                 Battery: 30h<br/>
                 Price: ~$180-299<br/>
                 Foldable: Flat only
             </div>
 <div class="vs-item">
 <strong>Sennheiser Momentum 4</strong><br/>
-                ANC: ★★★★★?br&gt;
-                Sound: ★★★★★?br&gt;
-                Comfort: ★★★★★?br&gt;
+                ANC: ★★★★★<br/>
+                
+                Sound: ★★★★★<br/>
+                
+                Comfort: ★★★★★<br/>
+                
                 Battery: 28h<br/>
                 Price: ~$157-209<br/>
                 Foldable: Flat only
@@ -287,20 +293,20 @@
 <span style="font-size:12px;margin-top:8px;display:inline-block">As an Amazon Associate we earn from qualifying purchases.</span></p>
 </footer>
 <script>
-const menu Toggle = document.query Selector('.menu-toggle');
-const main Nav = document.get Element ById('main-nav');
-if (menu Toggle && main Nav) {
-    menu Toggle.add Event Listener('click', function() {
-        const expanded = this.get Attribute('aria-expanded') === 'true';
-        this.set Attribute('aria-expanded', !expanded);
-        this.class List.toggle('open');
-        main Nav.class List.toggle('open');
+const menuToggle = document.querySelector('.menu-toggle');
+const mainNav = document.getElementById('main-nav');
+if (menuToggle && mainNav) {
+    menuToggle.addEventListener('click', function() {
+        const expanded = this.getAttribute('aria-expanded') === 'true';
+        this.setAttribute('aria-expanded', !expanded);
+        this.classList.toggle('open');
+        mainNav.classList.toggle('open');
     });
-    main Nav.query Selector All('a').for Each(function(link) {
-        link.add Event Listener('click', function() {
-            menu Toggle.set Attribute('aria-expanded', 'false');
-            menu Toggle.class List.remove('open');
-            main Nav.class List.remove('open');
+    mainNav.querySelector All('a').forEach(function(link) {
+        link.addEventListener('click', function() {
+            menuToggle.setAttribute('aria-expanded', 'false');
+            menuToggle.classList.remove('open');
+            mainNav.classList.remove('open');
         });
     });
 }
@@ -309,11 +315,11 @@ if (menu Toggle && main Nav) {
     {
       "@context": "https://schema.org",
       "@type": "FAQPage",
-      "main Entity": [
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Are Sony WH-1000XM5 good for commuting?",
-          "accepted Answer": {
+          "acceptedAnswer": {
             "@type": "Answer",
             "text": "Yes, the WH-1000XM5 excels at noise cancellation, making it great for commutes, flights, and noisy environments."
           }
@@ -321,7 +327,7 @@ if (menu Toggle && main Nav) {
         {
           "@type": "Question",
           "name": "Is the Sony WH-1000XM5 worth the upgrade from XM4?",
-          "accepted Answer": {
+          "acceptedAnswer": {
             "@type": "Answer",
             "text": "The XM5 offers improved ANC and better voice call quality, though the XM4 has better foldability. Worth upgrade if those matter to you."
           }

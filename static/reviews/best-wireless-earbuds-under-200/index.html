@@ -35,18 +35,18 @@
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "Breadcrumb List",
-      "item List Element": [
-        { "@type": "List Item", "position": 1, "name": "Home", "item": "https://cfqclaw.dpdns.org/" },
-        { "@type": "List Item", "position": 2, "name": "Buying Guides", "item": "https://cfqclaw.dpdns.org/categories/guides/" },
-        { "@type": "List Item", "position": 3, "name": "Best Wireless Earbuds Under $200" }
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://cfqclaw.dpdns.org/" },
+        { "@type": "ListItem", "position": 2, "name": "Buying Guides", "item": "https://cfqclaw.dpdns.org/categories/guides/" },
+        { "@type": "ListItem", "position": 3, "name": "Best Wireless Earbuds Under $200" }
       ]
     }
     </script>
     <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@type": "Review",
-  "item Reviewed": {
+  "itemReviewed": {
     "@type": "Product",
     "name": "Best Wireless Earbuds Under $200 (2026)",
     "brand": {
@@ -61,23 +61,23 @@
       "availability": "https://schema.org/In Stock"
     }
   },
-  "review Rating": {
+  "reviewRating": {
     "@type": "Rating",
-    "rating Value": "4.5",
-    "best Rating": "5",
+    "ratingValue": "4.5",
+    "bestRating": "5",
     "worst Rating": "1"
   },
   "author": {
     "@type": "Person",
     "name": "Gearwise Hub Editorial Team"
   },
-  "date Published": "2026-05-07",
-  "date Modified": "2026-05-07",
+  "datePublished": "2026-05-07",
+  "dateModified": "2026-05-07",
   "publisher": {
     "@type": "Organization",
     "name": "Gearwise Hub",
     "logo": {
-      "@type": "Image Object",
+      "@type": "ImageObject",
       "url": "https://cfqclaw.dpdns.org/logo.svg"
     }
   },
@@ -91,10 +91,10 @@
       "@type": "Article",
       "headline": "Best Wireless Earbuds Under $200 (2026) &#8212; Top Picks for the solid value",
       "image": "https://images.pexels.com/photos/18542277/pexels-photo-18542277.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "date Published": "2026-05-07",
-      "date Modified": "2026-05-07",
+      "datePublished": "2026-05-07",
+      "dateModified": "2026-05-07",
       "author": { "@type": "Person", "name": "Gearwise Hub Editorial Team" },
-      "publisher": { "@type": "Organization", "name": "Gearwise Hub", "logo": { "@type": "Image Object", "url": "https://cfqclaw.dpdns.org/logo.svg" } },
+      "publisher": { "@type": "Organization", "name": "Gearwise Hub", "logo": { "@type": "ImageObject", "url": "https://cfqclaw.dpdns.org/logo.svg" } },
       "description": "Best wireless earbuds priced $100-$200 in 2026. Our testers ranked Soundcore Liberty 4 NC, Sony WF-1000XM5, Jabra Elite 85t and more."
     }
     </script>
@@ -443,20 +443,20 @@
     <span style="font-size:12px;margin-top:8px;display:inline-block">As an Amazon Associate we earn from qualifying purchases.</span></p>
 </footer>
 <script>
-const menu Toggle = document.query Selector('.menu-toggle');
-const main Nav = document.get Element ById('main-nav');
-if (menu Toggle && main Nav) {
-    menu Toggle.add Event Listener('click', function() {
-        const expanded = this.get Attribute('aria-expanded') === 'true';
-        this.set Attribute('aria-expanded', !expanded);
-        this.class List.toggle('open');
-        main Nav.class List.toggle('open');
+const menuToggle = document.querySelector('.menu-toggle');
+const mainNav = document.getElementById('main-nav');
+if (menuToggle && mainNav) {
+    menuToggle.addEventListener('click', function() {
+        const expanded = this.getAttribute('aria-expanded') === 'true';
+        this.setAttribute('aria-expanded', !expanded);
+        this.classList.toggle('open');
+        mainNav.classList.toggle('open');
     });
-    main Nav.query Selector All('a').for Each(function(link) {
-        link.add Event Listener('click', function() {
-            menu Toggle.set Attribute('aria-expanded', 'false');
-            menu Toggle.class List.remove('open');
-            main Nav.class List.remove('open');
+    mainNav.querySelectorAll('a').forEach(function(link) {
+        link.addEventListener('click', function() {
+            menuToggle.setAttribute('aria-expanded', 'false');
+            menuToggle.classList.remove('open');
+            mainNav.classList.remove('open');
         });
     });
 }
@@ -466,11 +466,11 @@ if (menu Toggle && main Nav) {
     {
       "@context": "https://schema.org",
       "@type": "FAQPage",
-      "main Entity": [
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Are earbuds under $200 worth it?",
-          "accepted Answer": {
+          "acceptedAnswer": {
             "@type": "Answer",
             "text": "Yes. The $100-$200 range delivers genuine premium features including strong ANC, hi-res codec support, and solid build quality without the flagship price tag."
           }
@@ -478,7 +478,7 @@ if (menu Toggle && main Nav) {
         {
           "@type": "Question",
           "name": "Is LDAC worth it over AAC?",
-          "accepted Answer": {
+          "acceptedAnswer": {
             "@type": "Answer",
             "text": "LDAC is worth it for Android users with hi-res audio files. For compressed streaming (Spotify, You Tube), the difference is subtle. i Phone users are limited to AAC regardless."
           }
@@ -486,7 +486,7 @@ if (menu Toggle && main Nav) {
         {
           "@type": "Question",
           "name": "What is the best earbuds brand under $200?",
-          "accepted Answer": {
+          "acceptedAnswer": {
             "@type": "Answer",
             "text": "Sony and Soundcore are the strongest in this range. Sony WF-1000XM5 leads on ANC and overall quality; Soundcore Liberty 4 NC leads on value. Jabra is best for call quality."
           }
@@ -494,7 +494,7 @@ if (menu Toggle && main Nav) {
         {
           "@type": "Question",
           "name": "Should I get earbuds or over-ear headphones under $200?",
-          "accepted Answer": {
+          "acceptedAnswer": {
             "@type": "Answer",
             "text": "Over-ear headphones deliver better ANC and sound for the same price. Earbuds are more portable and better for exercise and calls. Choose based on your primary use case."
           }
